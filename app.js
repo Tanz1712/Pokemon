@@ -7,7 +7,7 @@ container.innerHTML = `<img class="poke" src="https://tinyurl.com/ironhack-pokem
 }
 
 let prev = document.getElementById('prev')
-let  = document.getElementById('next')
+let next= document.getElementById('next')
 
 prev.onclick = function() {
     if (count > 1) {
